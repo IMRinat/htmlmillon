@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{ /* стиль фона страницы */
+  background-color: rgb(145, 135, 235);
+}
+
+div#question{ /* стиль для текста вопроса */
+	font-size: 20px;
+}
+
+
+div#summ{ /* стиль для суммы выигрыша */
+	font-size: 30px;
+}
+
+
+div#header{ /* стиль для заголовка */
+	font-size: 40px;
+}
+
+
+table  td { /* стиль для таьлицы */
+	border: 3px solid purple;
+}
+
+
+button { /* стиль для кнопок */
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 24px;
+}
